@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">2-Peliculas</string>
+    <string name="instructions">Selecciona una película para ver su portada</string>
+    <string name="gravity">Gravedad</string>
+    <string name="jumanji">Jumanji</string>
+    <string name="the_lion_king">El Rey León</string>
+    <string name="star_wars">Star Wars</string>
+    <string name="toy_story">Toy Story</string>
+    <string name="inception">El Origen</string>
+</resources>
